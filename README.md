@@ -1,73 +1,49 @@
-# 👋 Hi, I'm Nayan Pillewar!
+<h2 align="left">Hi 👋! My name is Nayan Pillewar and I'm a Web Developer from India.</h2>
 
-🎓 Student at **Shri Ramdeobaba College of Engineering and Management, Nagpur**  
-🎯 Minors in Information Technology | Expected Graduation: **July 2026**
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayan260805&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan260805&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🔧 Skills & Technologies
+###
 
-**Languages:** Java, C++, HTML, CSS, JavaScript  
-**Web & Backend:** Node.js, Express.js, REST APIs, Socket.io  
-**Cloud & DevOps:** AWS (EC2, S3, IAM, GuardDuty, CloudWatch, SES, DataSync, Trusted Advisor)  
-**Tools:** Git, GitHub, SQL Developer, LTspice, Packet Tracer  
-**Soft Skills:** Problem-Solving, Time Management, Critical Thinking, Team Collaboration  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+</div>
 
----
+###
 
-## 🚀 Projects
+- 🌍 I’m currently working on: **Real-Time Location Tracking System**
+- 🌱 Currently learning: **DSA**
+- 💬 Ask me about: **React, GSAP, Frontend Animation, Web Development**
+- 📫 How to reach me: **nayanpillewar7@gmail.com**
+- 📄 Know more about my experience: [Resume PDF](https://your-resume-link.com) <!-- replace with actual link -->
 
-### 🔹 [Interactive 3D Website – Sidcup Family Golf](https://nayan260805.github.io/3Dwebsite/) <!-- Replace with your live hosted link -->
-- Built with HTML, CSS, JavaScript, GSAP  
-- Features smooth scrolling, 3D animations, interactive UI  
-- Enhanced user engagement with immersive design
+###
 
-### 🔹 [Real-Time Location Tracking System](https://github.com/Nayan260805/Realtime_Tracker)
-- Web app using **Node.js**, **Socket.io**, and **Google Maps API**  
-- Tracks user location in real-time, updates across clients using web sockets  
-- Designed for logistics and delivery use cases  
-- Full-stack development with real-time data handling
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</div>
 
----
+###
 
-## 📚 Education
-
-**RCOEM, Nagpur**  
-- Relevant Courses: DBMS, DSA, OOP, CN, VLSI, OS, TOC, Software Engineering  
-- HSC: 70.18% | SSC: 89.90%
-
----
-
-## 🏆 Achievements & Participation
-
-- 🥇 1st Prize in Handwriting Competition  
-- 🗣️ Debate Competition – Electrolitiz Society  
-- 🛠️ Ennovate’24 – National Level Technical Event  
-
----
-
-## 📜 Certifications
-
-- ✅ [NPTEL – Software Testing](https://nptel.ac.in/courses/106105150)  
-- ✅ [edX – Web Development with HTML5, CSS3, JS](https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+3T2020/home)  
-- ✅ [edX – Blockchain: Uses and Implications](https://www.edx.org/course/blockchain-understanding-its-uses-and-implications)  
-- ✅ [AWS – Cloud Practitioner Essentials](https://www.aws.training/Details/Video?id=15856)
-
----
-
-## 🎨 Interests
-
-- 🎨 Drawing (Sketching & Painting)  
-- 💃 Dancing (Freestyle)
-
----
-
-## 🔗 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Nayan260805-181717?style=for-the-badge&logo=github)](https://github.com/Nayan260805)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nayan--pillewar--66a70025b-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayan-pillewar-66a70025b/)  
-📧 **Email:** [nayanpillewar7@gmail.com](mailto:nayanpillewar7@gmail.com)
-
----
-
-_💡 Want to collaborate or just say hi? Feel free to connect!_
+<br clear="both">
